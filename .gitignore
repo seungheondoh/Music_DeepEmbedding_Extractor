@@ -115,7 +115,6 @@ venv.bak/
 *.tar
 *.bin
 *.zip
-*.ckpt
 
 # Tensorboard
 events.out.tfevents.*
