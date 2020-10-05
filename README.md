@@ -18,6 +18,10 @@ Referecne: https://github.com/minzwon/sota-music-tagging-models/tree/master/spli
 'weird', 'country', 'metal', 'female voice', 'choral']
 ```
 
+## Get Dataset
+Download Tag annotations, mp3 file1, mp3 file2, mp3 file3
+- http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset
+
 ## Available Models
 Referecne: https://github.com/minzwon/sota-music-tagging-models/tree/master/
 
@@ -72,3 +76,8 @@ tensor([[1.4768, 0.0000, 2.1425, 0.4429, 0.9306, 0.2147, 0.0000, 1.9512, 1.0687,
          0.0000, 1.9150, 0.2905, 1.2963, 2.8640, 0.2416, 0.0000, 0.8671, 2.3034,
          1.2743]], grad_fn=<ViewBackward>)
 ```
+
+
+## Visualization
+<img src="img/gender_tsne.png">
+<img src="img/inst_tsne.png">
